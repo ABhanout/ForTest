@@ -1697,3 +1697,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.24-10.50.12:136][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
 [2021.08.24-10.50.12:159][685]LogPlayLevel: Display: Destroying online subsystem :Context_3
 [2021.08.24-10.50.23:828][958]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.08.24-10.58.08:443][443]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
+[2021.08.24-11.27.12:667][631]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
